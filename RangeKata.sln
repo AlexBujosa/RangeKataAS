@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeKata", "RangeKata\RangeKata.csproj", "{56FC894C-DB60-4037-9C6E-BF6631010B82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeKataMsTest", "RangeKataMsTest\RangeKataMsTest.csproj", "{083C90F7-D8FA-4120-BD45-09B02BDAE215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56FC894C-DB60-4037-9C6E-BF6631010B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FC894C-DB60-4037-9C6E-BF6631010B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FC894C-DB60-4037-9C6E-BF6631010B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FC894C-DB60-4037-9C6E-BF6631010B82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{083C90F7-D8FA-4120-BD45-09B02BDAE215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083C90F7-D8FA-4120-BD45-09B02BDAE215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083C90F7-D8FA-4120-BD45-09B02BDAE215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083C90F7-D8FA-4120-BD45-09B02BDAE215}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B06174C4-C2EE-41B8-ABF2-256A8C421469}
+	EndGlobalSection
+EndGlobal
